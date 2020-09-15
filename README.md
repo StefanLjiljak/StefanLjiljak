@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Next.js, React.js, Node.js
+- 🔭 I’m currently working on Next.js, React.js, Node.js, PWA
 - 🌱 I’m currently learning Deno, Cloud SAM
 - 👯 I’m looking to collaborate on building SaaS API connectors
 - 🤔 I’m looking for help with Kotlin
